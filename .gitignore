@@ -1,1 +1,5 @@
+# ignore the files that you write it's name here
 hello.html
+
+# ignore all the files that you write it's extension here
+*.js
